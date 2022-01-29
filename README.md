@@ -1,8 +1,8 @@
-# Run non-web Java processes on Heroku
+## Run non-web Java processes on Heroku
 
 ## Sample Application
 
-A simple app that demonstrates the one-off and worker process types can be created as two simple Java classes and a build file:
+A simple app that demonstrates the one-off process type that can be created as a simple Java class and a build file:
 
     sampleapp/
       pom.xml
